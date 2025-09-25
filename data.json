@@ -1,0 +1,243 @@
+{
+  "series": [
+    {
+      "id": "Serie3/A.Cruel.Love.The.Ruth.Ellis.Story",
+      "title": "A Cruel Love: The Ruth Ellis Story",
+      "cover": "assets/images%20(1).jpg"
+    },
+    {
+      "id": "Serie3/A.Thousand.Blows",
+      "title": "A Thousand Blows",
+      "cover": "assets/images.jpg"
+    },
+    {
+      "id": "Serie3/Adolescence",
+      "title": "Adolescence",
+      "cover": "assets/images2.jpg"
+    },
+    {
+      "id": "Serie3/American.Primeval",
+      "title": "American Primeval",
+      "cover": "assets/images3.jpg"
+    },
+    {
+      "id": "Serie3/Black.Doves",
+      "title": "Black Doves",
+      "cover": "assets/images4.jpg"
+    },
+    {
+      "id": "Serie3/The.Crown",
+      "title": "The Crown",
+      "cover": "assets/images5.jpg"
+    },
+    {
+      "id": "Serie3/Stranger.Things",
+      "title": "Stranger Things",
+      "cover": "assets/images6.jpg"
+    }
+  ],
+  "manual": {
+    "Serie3/A.Cruel.Love.The.Ruth.Ellis.Story": {
+      "seasons": ["S01"],
+      "episodesByQuality": {
+        "S01": {
+          "720p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Cruel.Love.The.Ruth.Ellis.Story/S01/720p/A.Cruel.Love.The.Ruth.Ellis.Story.S01E01.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Cruel.Love.The.Ruth.Ellis.Story/S01/720p/A.Cruel.Love.The.Ruth.Ellis.Story.S01E02.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Cruel.Love.The.Ruth.Ellis.Story/S01/720p/A.Cruel.Love.The.Ruth.Ellis.Story.S01E03.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Cruel.Love.The.Ruth.Ellis.Story/S01/720p/A.Cruel.Love.The.Ruth.Ellis.Story.S01E04.720p.WEB-DL.x264.SoftSub.mkv" }
+          ],
+          "480p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Cruel.Love.The.Ruth.Ellis.Story/S01/480p/A.Cruel.Love.The.Ruth.Ellis.Story.S01E01.480p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Cruel.Love.The.Ruth.Ellis.Story/S01/480p/A.Cruel.Love.The.Ruth.Ellis.Story.S01E02.480p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Cruel.Love.The.Ruth.Ellis.Story/S01/480p/A.Cruel.Love.The.Ruth.Ellis.Story.S01E03.480p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Cruel.Love.The.Ruth.Ellis.Story/S01/480p/A.Cruel.Love.The.Ruth.Ellis.Story.S01E04.480p.WEB-DL.x264.SoftSub.mkv" }
+          ],
+          "Sub": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Cruel.Love.The.Ruth.Ellis.Story/S01/Sub/A.Cruel.Love.The.Ruth.Ellis.Story.S01E01.fa.srt" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Cruel.Love.The.Ruth.Ellis.Story/S01/Sub/A.Cruel.Love.The.Ruth.Ellis.Story.S01E02.fa.srt" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Cruel.Love.The.Ruth.Ellis.Story/S01/Sub/A.Cruel.Love.The.Ruth.Ellis.Story.S01E03.fa.srt" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Cruel.Love.The.Ruth.Ellis.Story/S01/Sub/A.Cruel.Love.The.Ruth.Ellis.Story.S01E04.fa.srt" }
+          ]
+        }
+      }
+    },
+    "Serie3/A.Thousand.Blows": {
+      "seasons": ["S01"],
+      "episodesByQuality": {
+        "S01": {
+          "720p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/720p/A.Thousand.Blows.S01E01.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/720p/A.Thousand.Blows.S01E02.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/720p/A.Thousand.Blows.S01E03.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/720p/A.Thousand.Blows.S01E04.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/720p/A.Thousand.Blows.S01E05.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/720p/A.Thousand.Blows.S01E06.720p.WEB-DL.x264.SoftSub.mkv" }
+          ],
+          "480p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/480p/A.Thousand.Blows.S01E01.480p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/480p/A.Thousand.Blows.S01E02.480p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/480p/A.Thousand.Blows.S01E03.480p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/480p/A.Thousand.Blows.S01E04.480p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/480p/A.Thousand.Blows.S01E05.480p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/480p/A.Thousand.Blows.S01E06.480p.WEB-DL.x264.SoftSub.mkv" }
+          ],
+          "Dub": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/Dub/A.Thousand.Blows.S01E01.720p.WEB-DL.Dubbed.MiraMovie.mp4" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/Dub/A.Thousand.Blows.S01E02.720p.WEB-DL.Dubbed.MiraMovie.mp4" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/Dub/A.Thousand.Blows.S01E03.720p.WEB-DL.Dubbed.MiraMovie.mp4" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/Dub/A.Thousand.Blows.S01E04.720p.WEB-DL.Dubbed.MiraMovie.mp4" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/Dub/A.Thousand.Blows.S01E05.720p.WEB-DL.Dubbed.MiraMovie.mp4" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/Dub/A.Thousand.Blows.S01E06.720p.WEB-DL.Dubbed.MiraMovie.mp4" }
+          ],
+          "Sub": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/Sub/A.Thousand.Blows.S01E01.fa.srt" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/Sub/A.Thousand.Blows.S01E02.fa.srt" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/Sub/A.Thousand.Blows.S01E03.fa.srt" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/Sub/A.Thousand.Blows.S01E04.fa.srt" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/Sub/A.Thousand.Blows.S01E05.fa.srt" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/A.Thousand.Blows/S01/Sub/A.Thousand.Blows.S01E06.fa.srt" }
+          ]
+        }
+      }
+    },
+    "Serie3/Adolescence": {
+      "seasons": ["S01"],
+      "episodesByQuality": {
+        "S01": {
+          "1080p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Adolescence/S01/1080p/Adolescence.S01E01.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Adolescence/S01/1080p/Adolescence.S01E02.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Adolescence/S01/1080p/Adolescence.S01E03.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Adolescence/S01/1080p/Adolescence.S01E04.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" }
+          ],
+          "720p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Adolescence/S01/720p/Adolescence.S01E01.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Adolescence/S01/720p/Adolescence.S01E02.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Adolescence/S01/720p/Adolescence.S01E03.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Adolescence/S01/720p/Adolescence.S01E04.720p.WEB-DL.x264.SoftSub.mkv" }
+          ],
+          "Sub": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Adolescence/S01/Sub/Adolescence.S01E01.fa.srt" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Adolescence/S01/Sub/Adolescence.S01E02.fa.srt" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Adolescence/S01/Sub/Adolescence.S01E03.fa.srt" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Adolescence/S01/Sub/Adolescence.S01E04.fa.srt" }
+          ]
+        }
+      }
+    },
+    "Serie3/American.Primeval": {
+      "seasons": ["S01"],
+      "episodesByQuality": {
+        "S01": {
+          "1080p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/1080p/American.Primeval.S01E01.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/1080p/American.Primeval.S01E02.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/1080p/American.Primeval.S01E03.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/1080p/American.Primeval.S01E04.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/1080p/American.Primeval.S01E05.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/1080p/American.Primeval.S01E06.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" }
+          ],
+          "720p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/720p/American.Primeval.S01E01.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/720p/American.Primeval.S01E02.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/720p/American.Primeval.S01E03.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/720p/American.Primeval.S01E04.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/720p/American.Primeval.S01E05.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/720p/American.Primeval.S01E06.720p.WEB-DL.x264.SoftSub.mkv" }
+          ],
+          "Dub": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/Dub/American.Primeval.S01E01.720p.WEB.DL.Duble.MiraMovie.mp4" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/Dub/American.Primeval.S01E02.720p.WEB.DL.Duble.MiraMovie.mp4" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/Dub/American.Primeval.S01E03.720p.WEB.DL.Duble.MiraMovie.mp4" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/Dub/American.Primeval.S01E04.720p.WEB.DL.Duble.MiraMovie.mp4" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/Dub/American.Primeval.S01E05.720p.WEB.DL.Duble.MiraMovie.mp4" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/Dub/American.Primeval.S01E06.720p.WEB.DL.Duble.MiraMovie.mp4" }
+          ],
+          "Sub": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/Sub/American.Primeval.S01E01.fa.srt" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/Sub/American.Primeval.S01E02.fa.srt" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/Sub/American.Primeval.S01E03.fa.srt" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/Sub/American.Primeval.S01E04.fa.srt" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/Sub/American.Primeval.S01E05.fa.srt" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/American.Primeval/S01/Sub/American.Primeval.S01E06.fa.srt" }
+          ]
+        }
+      }
+    },
+    "Serie3/Black.Doves": {
+      "seasons": ["S01"],
+      "episodesByQuality": {
+        "S01": {
+          "1080p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/1080p/Black.Doves.S01E01.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/1080p/Black.Doves.S01E02.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/1080p/Black.Doves.S01E03.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/1080p/Black.Doves.S01E04.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/1080p/Black.Doves.S01E05.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/1080p/Black.Doves.S01E06.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" }
+          ],
+          "720p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/720p/Black.Doves.S01E01.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/720p/Black.Doves.S01E02.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/720p/Black.Doves.S01E03.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/720p/Black.Doves.S01E04.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/720p/Black.Doves.S01E05.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/720p/Black.Doves.S01E06.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.mkv" }
+          ],
+          "Dub": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/Dub/Black.Doves.S01E01.720p.WEB-DL.Dubbed.MiraMovie.mp4" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/Dub/Black.Doves.S01E02.720p.WEB-DL.Dubbed.MiraMovie.mp4" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/Dub/Black.Doves.S01E03.720p.WEB-DL.Dubbed.MiraMovie.mp4" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/Dub/Black.Doves.S01E04.720p.WEB-DL.Dubbed.MiraMovie.mp4" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/Dub/Black.Doves.S01E05.720p.WEB-DL.Dubbed.MiraMovie.mp4" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/Dub/Black.Doves.S01E06.720p.WEB-DL.Dubbed.MiraMovie.mp4" }
+          ],
+          "Sub": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/Sub/Black.Doves.S01E01.fa.srt" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/Sub/Black.Doves.S01E02.fa.srt" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/Sub/Black.Doves.S01E03.fa.srt" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/Sub/Black.Doves.S01E04.fa.srt" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/Sub/Black.Doves.S01E05.fa.srt" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/Sub/Black.Doves.S01E06.fa.srt" }
+          ]
+        }
+      }
+    },
+    "Serie3/The.Crown": {
+      "seasons": ["S01"],
+      "episodesByQuality": {
+        "S01": {
+          "1080p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/The.Crown/S01/1080p/The.Crown.S01E01.1080p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/The.Crown/S01/1080p/The.Crown.S01E02.1080p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/The.Crown/S01/1080p/The.Crown.S01E03.1080p.WEB-DL.x264.SoftSub.mkv" }
+          ],
+          "720p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/The.Crown/S01/720p/The.Crown.S01E01.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/The.Crown/S01/720p/The.Crown.S01E02.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/The.Crown/S01/720p/The.Crown.S01E03.720p.WEB-DL.x264.SoftSub.mkv" }
+          ]
+        }
+      }
+    },
+    "Serie3/Stranger.Things": {
+      "seasons": ["S01"],
+      "episodesByQuality": {
+        "S01": {
+          "1080p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Stranger.Things/S01/1080p/Stranger.Things.S01E01.1080p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Stranger.Things/S01/1080p/Stranger.Things.S01E02.1080p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Stranger.Things/S01/1080p/Stranger.Things.S01E03.1080p.WEB-DL.x264.SoftSub.mkv" }
+          ],
+          "720p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Stranger.Things/S01/720p/Stranger.Things.S01E01.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Stranger.Things/S01/720p/Stranger.Things.S01E02.720p.WEB-DL.x264.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Stranger.Things/S01/720p/Stranger.Things.S01E03.720p.WEB-DL.x264.SoftSub.mkv" }
+          ]
+        }
+      }
+    }
+  }
+}
+
