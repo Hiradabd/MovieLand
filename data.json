@@ -28,12 +28,17 @@
     {
       "id": "Serie3/The.Crown",
       "title": "The Crown",
+      "cover": "assets/images6.jpg"
+    },
+    {
+      "id": "Serie3/Citadel.Diana",
+      "title": "Citadel Diana",
       "cover": "assets/images5.jpg"
     },
     {
       "id": "Serie3/Stranger.Things",
       "title": "Stranger Things",
-      "cover": "assets/images6.jpg"
+      "cover": "assets/images7.jpg"
     }
   ],
   "manual": {
@@ -200,6 +205,45 @@
             { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/Sub/Black.Doves.S01E04.fa.srt" },
             { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/Sub/Black.Doves.S01E05.fa.srt" },
             { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Black.Doves/S01/Sub/Black.Doves.S01E06.fa.srt" }
+          ]
+        }
+      }
+    },
+    "Serie3/Citadel.Diana": {
+      "seasons": ["S01"],
+      "episodesByQuality": {
+        "S01": {
+          "1080p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/1080p.x265/Citadel.Diana.S01E01.DUAL-AUDIO.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/1080p.x265/Citadel.Diana.S01E02.DUAL-AUDIO.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/1080p.x265/Citadel.Diana.S01E03.DUAL-AUDIO.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/1080p.x265/Citadel.Diana.S01E04.DUAL-AUDIO.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/1080p.x265/Citadel.Diana.S01E05.DUAL-AUDIO.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/1080p.x265/Citadel.Diana.S01E06.DUAL-AUDIO.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.mkv" }
+          ],
+          "720p": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/720p.x265/Citadel.Diana.S01E01.DUAL-AUDIO.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/720p.x265/Citadel.Diana.S01E02.DUAL-AUDIO.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/720p.x265/Citadel.Diana.S01E03.DUAL-AUDIO.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/720p.x265/Citadel.Diana.S01E04.DUAL-AUDIO.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/720p.x265/Citadel.Diana.S01E05.DUAL-AUDIO.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.mkv" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/720p.x265/Citadel.Diana.S01E06.DUAL-AUDIO.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.mkv" }
+          ],
+          "Dub": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/Dub/720p/Citadel.Diana.S01E01.720p.WEB.DL.Duble.MiraMovie.mp4" },  
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/Dub/720p/Citadel.Diana.S01E02.720p.WEB.DL.Duble.MiraMovie.mp4" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/Dub/720p/Citadel.Diana.S01E03.720p.WEB.DL.Duble.MiraMovie.mp4" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/Dub/720p/Citadel.Diana.S01E04.720p.WEB.DL.Duble.MiraMovie.mp4" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/Dub/720p/Citadel.Diana.S01E05.720p.WEB.DL.Duble.MiraMovie.mp4" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/Dub/720p/Citadel.Diana.S01E06.720p.WEB.DL.Duble.MiraMovie.mp4" }
+          ],
+          "Sub": [
+            { "id": "E01", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/Sub/Citadel.Diana.S01E01.fa.srt" },
+            { "id": "E02", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/Sub/Citadel.Diana.S01E02.fa.srt" },
+            { "id": "E03", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/Sub/Citadel.Diana.S01E03.fa.srt" },
+            { "id": "E04", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/Sub/Citadel.Diana.S01E04.fa.srt" },
+            { "id": "E05", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/Sub/Citadel.Diana.S01E05.fa.srt" },
+            { "id": "E06", "src": "http://dl40.zedschibebinm3.sbs/Serie3/Citadel.Diana/S01/Sub/Citadel.Diana.S01E06.fa.srt" }
           ]
         }
       }
